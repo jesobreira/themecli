@@ -1,0 +1,8 @@
+Coded by Jefrey S. Santos
+jefrey[at]jefrey.ml
+
+Using JSON for PHP4 functions written by @ebollens
+Taken from: https://github.com/ucla/mwf/blob/master/root/assets/lib/json.simplejson.php
+
+Compiled using Bambalam PHP Compiler.
+http://www.bambalam.se/bamcompile/

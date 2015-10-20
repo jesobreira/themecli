@@ -1,0 +1,4 @@
+MAINFILE main.php
+OUTFILE bin\themecli.exe
+ICON .\icon.ico
+COMPRESS

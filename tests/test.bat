@@ -1,0 +1,1 @@
+..\bin\themecli.exe ..\tests\template.php ..\tests\output.txt "eyJ1c2VyIjoiSm9obiBEb2UifQ=="
